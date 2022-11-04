@@ -1,16 +1,10 @@
-# calculator
+## BMI_Calculator
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  * Flutter themes to create coherent branding.
+  * Multi-page apps using Flutter Routes and Navigator.
+  * Extracting and refactoring Flutter Widgets with a click of the button.
+  * Used functions as parameters and fields.
+  * Used the GestureDetector Widget to detect more than just a tap.
+  * Used custom colour palettes by using hex codes.
+  * Customised Flutter Widgets to achieve a specific design style.
+   
